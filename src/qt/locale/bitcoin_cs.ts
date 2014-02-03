@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Quarkcoin</source>
-        <translation>O Quarkcoinu</translation>
+        <source>About FairQuark</source>
+        <translation>O FairQuarku</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Quarkcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Quarkcoin&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;FairQuark&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;FairQuark&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -36,6 +36,11 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <location line="+0"/>
         <source>The Quarkcoin developers</source>
         <translation>Vývojáři Quarkcoinu</translation>
+    </message>
+	<message>
+        <location line="+0"/>
+        <source>The FairQuark developers</source>
+        <translation>Vývojáři FairQuarku</translation>
     </message>
 </context>
 <context>
@@ -67,8 +72,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Quarkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tohle jsou tvé Quarkcoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
+        <source>These are your FairQuark addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tohle jsou tvé FairQuarkové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +87,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Quarkcoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Quarkcoinové adresy</translation>
+        <source>Sign a message to prove you own a FairQuark address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem FairQuarkové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +112,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Quarkcoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Quarkcoinovou adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified FairQuark address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou FairQuarkovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +127,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Quarkcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Quarkcoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your FairQuark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé FairQuarkové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +253,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKCOINS&lt;/b&gt;!</source>
-        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY QUARKCOINY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FairQuarkS&lt;/b&gt;!</source>
+        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY FairQuarkY&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +280,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Quarkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quarkcoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých quarkcoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>FairQuark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your FairQuarks from being stolen by malware infecting your computer.</source>
+        <translation>FairQuark se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých FairQuarků malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +379,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Quarkcoin</source>
-        <translation>Zobraz informace o Quarkcoinu</translation>
+        <source>Show information about FairQuark</source>
+        <translation>Zobraz informace o FairQuarku</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +424,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Quarkcoin address</source>
-        <translation>Pošli mince na Quarkcoinovou adresu</translation>
+        <source>Send coins to a FairQuark address</source>
+        <translation>Pošli mince na FairQuarkovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Quarkcoin</source>
-        <translation>Uprav nastavení Quarkcoinu</translation>
+        <source>Modify configuration options for FairQuark</source>
+        <translation>Uprav nastavení FairQuarku</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +460,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Quarkcoin</source>
-        <translation>Quarkcoin</translation>
+        <source>FairQuark</source>
+        <translation>FairQuark</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +485,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Quarkcoin</source>
-        <translation>O &amp;Quarkcoinu</translation>
+        <source>&amp;About FairQuark</source>
+        <translation>O &amp;FairQuarku</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +505,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Quarkcoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Quarkcoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your FairQuark addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými FairQuarkovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Quarkcoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Quarkcoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified FairQuark addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými FairQuarkovými adresami</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +541,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Quarkcoin client</source>
-        <translation>Quarkcoin klient</translation>
+        <source>FairQuark client</source>
+        <translation>FairQuark klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Quarkcoin network</source>
-        <translation><numerusform>%n aktivní spojení do Quarkcoinové sítě</numerusform><numerusform>%n aktivní spojení do Quarkcoinové sítě</numerusform><numerusform>%n aktivních spojení do Quarkcoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to FairQuark network</source>
+        <translation><numerusform>%n aktivní spojení do FairQuarkové sítě</numerusform><numerusform>%n aktivní spojení do FairQuarkové sítě</numerusform><numerusform>%n aktivních spojení do FairQuarkové sítě</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +661,8 @@ Adresa: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Quarkcoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Quarkcoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid FairQuark address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná FairQuarková adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +676,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Quarkcoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Quarkcoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. FairQuark can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. FairQuark nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +742,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Quarkcoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Quarkcoinová adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid FairQuark address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná FairQuarková adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +761,8 @@ Adresa: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Quarkcoin-Qt</source>
-        <translation>Quarkcoin-Qt</translation>
+        <source>FairQuark-Qt</source>
+        <translation>FairQuark-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +824,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Quarkcoin after logging in to the system.</source>
-        <translation>Automaticky spustí Quarkcoin po přihlášení do systému.</translation>
+        <source>Automatically start FairQuark after logging in to the system.</source>
+        <translation>Automaticky spustí FairQuark po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Quarkcoin on system login</source>
-        <translation>S&amp;pustit Quarkcoin po přihlášení do systému</translation>
+        <source>&amp;Start FairQuark on system login</source>
+        <translation>S&amp;pustit FairQuark po přihlášení do systému</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +849,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Quarkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the FairQuark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -854,8 +859,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Quarkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připojí se do Quarkcoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
+        <source>Connect to the FairQuark network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Připojí se do FairQuarkové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +934,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quarkcoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Quarkcoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FairQuark.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování FairQuarku.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +949,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Quarkcoin addresses in the transaction list or not.</source>
-        <translation>Zda ukazovat quarkcoinové adresy ve výpisu transakcí nebo ne.</translation>
+        <source>Whether to show FairQuark addresses in the transaction list or not.</source>
+        <translation>Zda ukazovat FairQuarkové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +1001,8 @@ Adresa: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Quarkcoin.</source>
-        <translation>Nastavení se projeví až po restartování Quarkcoinu.</translation>
+        <source>This setting will take effect after restarting FairQuark.</source>
+        <translation>Nastavení se projeví až po restartování FairQuarku.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1020,8 @@ Adresa: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quarkcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Quarkcoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FairQuark network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s FairQuarkovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1074,8 @@ Adresa: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start quarkcoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit quarkcoin: obsluha click-to-pay</translation>
+        <source>Cannot start FairQuark: click-to-pay handler</source>
+        <translation>Nemůžu spustit FairQuark: obsluha click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1224,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Quarkcoin-Qt help message to get a list with possible Quarkcoin command-line options.</source>
-        <translation>Seznam parametrů Quarkcoinu pro příkazovou řádku získáš v nápovědě Quarkcoinu Qt.</translation>
+        <source>Show the FairQuark-Qt help message to get a list with possible FairQuark command-line options.</source>
+        <translation>Seznam parametrů FairQuarku pro příkazovou řádku získáš v nápovědě FairQuarku Qt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1244,13 @@ Adresa: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Quarkcoin - Debug window</source>
-        <translation>Quarkcoin - ladicí okno</translation>
+        <source>FairQuark - Debug window</source>
+        <translation>FairQuark - ladicí okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Quarkcoin Core</source>
-        <translation>Jádro Quarkcoinu</translation>
+        <source>FairQuark Core</source>
+        <translation>Jádro FairQuarku</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1259,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Quarkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Quarkcoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the FairQuark debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy FairQuarku z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1269,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Quarkcoin RPC console.</source>
-        <translation>Vítej v Quarkcoinové RPC konzoli.</translation>
+        <source>Welcome to the FairQuark RPC console.</source>
+        <translation>Vítej v FairQuarkové RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1407,8 +1412,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Adresa příjemce (např. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>The address to send the payment to (e.g. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Adresa příjemce (např. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,8 +1453,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Zadej Quarkcoinovou adresu (např. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a FairQuark address (e.g. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Zadej FairQuarkovou adresu (např. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
 </context>
 <context>
@@ -1471,8 +1476,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Adresa, kterou se zpráva podepíše (např. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>The address to sign the message with (e.g. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Adresa, kterou se zpráva podepíše (např. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1513,8 +1518,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Quarkcoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Quarkcoinové adresy</translation>
+        <source>Sign the message to prove you own this FairQuark address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této FairQuarkové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1544,13 +1549,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Adresa, kterou je zpráva podepsána (např. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>The address the message was signed with (e.g. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Adresa, kterou je zpráva podepsána (např. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Quarkcoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Quarkcoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified FairQuark address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou FairQuarkovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1570,8 @@ Adresa: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Zadej Quarkcoinovou adresu (např. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a FairQuark address (e.g. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Zadej FairQuarkovou adresu (např. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1580,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Quarkcoin signature</source>
-        <translation>Vlož Quarkcoinový podpis</translation>
+        <source>Enter FairQuark signature</source>
+        <translation>Vlož FairQuarkový podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1651,6 +1656,11 @@ Adresa: %4
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The Quarkcoin developers</source>
         <translation>Vývojáři Quarkcoinu</translation>
+    </message>
+	<message>
+        <location line="+1"/>
+        <source>The FairQuark developers</source>
+        <translation>Vývojáři FairQuarku</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2184,11 +2194,11 @@ Adresa: %4
     </message>
 </context>
 <context>
-    <name>quarkcoin-core</name>
+    <name>FairQuark-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Quarkcoin version</source>
-        <translation>Verze Quarkcoinu</translation>
+        <source>FairQuark version</source>
+        <translation>Verze FairQuarku</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2207,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or quarkcoind</source>
-        <translation>Poslat příkaz pro -server nebo quarkcoind</translation>
+        <source>Send command to -server or FairQuarkd</source>
+        <translation>Poslat příkaz pro -server nebo FairQuarkd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2227,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: quarkcoin.conf)</source>
-        <translation>Konfigurační soubor (výchozí: quarkcoin.conf)</translation>
+        <source>Specify configuration file (default: FairQuark.conf)</source>
+        <translation>Konfigurační soubor (výchozí: FairQuark.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: quarkcoind.pid)</source>
-        <translation>PID soubor (výchozí: quarkcoind.pid)</translation>
+        <source>Specify pid file (default: FairQuarkd.pid)</source>
+        <translation>PID soubor (výchozí: FairQuarkd.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2310,24 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=quarkcoinrpc
+rpcuser=FairQuarkrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;FairQuark Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=quarkcoinrpc
+rpcuser=FairQuarkrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;FairQuark Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2342,8 @@ například: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Quarkcoin is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Quarkcoin pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. FairQuark is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. FairQuark pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2387,8 @@ například: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Quarkcoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Quarkcoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FairQuark will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, FairQuark nebude fungovat správně.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2637,8 @@ například: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Quarkcoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Quarkcoin Wiki)</translation>
+        <source>SSL options: (see the FairQuark Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v FairQuark Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2827,13 @@ například: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Quarkcoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Quarkcoinu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of FairQuark</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi FairQuarku</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Quarkcoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Quarkcoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart FairQuark to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj FairQuark, aby se operace dokončila</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2892,8 @@ například: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Quarkcoin is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Quarkcoin už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. FairQuark is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. FairQuark už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <location line="+64"/>

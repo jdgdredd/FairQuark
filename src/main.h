@@ -51,7 +51,7 @@ static const unsigned int MEMPOOL_HEIGHT = 0x7FFFFFFF;
 static const int64 MAX_MONEY = 500000000 * COIN; // ~250 million + ~1 million pa (inflation) 
 inline bool MoneyRange(int64 nValue) { return (nValue >= 0 && nValue <= MAX_MONEY); }
 /** Coinbase transaction outputs can only be spent after this number of new blocks (network rule) */
-static const int COINBASE_MATURITY = 240;
+static const int COINBASE_MATURITY = 120;
 /** Threshold for nLockTime: below this value it is interpreted as block number, otherwise as UNIX timestamp. */
 static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20 1985 UTC
 /** Maximum number of script-checking threads allowed */

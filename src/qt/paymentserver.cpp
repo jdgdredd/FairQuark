@@ -23,7 +23,7 @@
 using namespace boost;
 
 const int BITCOIN_IPC_CONNECT_TIMEOUT = 1000; // milliseconds
-const QString BITCOIN_IPC_PREFIX("quarkcoin:");
+const QString BITCOIN_IPC_PREFIX("fairquark:");
 
 //
 // Create a name that is unique for:

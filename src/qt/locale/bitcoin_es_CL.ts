@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Quarkcoin</source>
-        <translation>Sobre Quarkcoin</translation>
+        <source>About FairQuark</source>
+        <translation>Sobre FairQuark</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Quarkcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Quarkcoin&lt;/b&gt; - versión </translation>
+        <source>&lt;b&gt;FairQuark&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;FairQuark&lt;/b&gt; - versión </translation>
     </message>
     <message>
         <location line="+57"/>
@@ -38,6 +38,11 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     <message>
         <location line="+0"/>
         <source>The Quarkcoin developers</source>
+        <translation type="unfinished"/>
+    </message>
+	<message>
+        <location line="+0"/>
+        <source>The FairQuark developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -70,8 +75,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Quarkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son tus direcciones Quarkcoin para recibir pagos. Puedes utilizar una diferente por cada persona emisora para saber quien te está pagando.</translation>
+        <source>These are your FairQuark addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son tus direcciones FairQuark para recibir pagos. Puedes utilizar una diferente por cada persona emisora para saber quien te está pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -85,7 +90,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Quarkcoin address</source>
+        <source>Sign a message to prove you own a FairQuark address</source>
         <translation>Firmar un mensaje para provar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -110,7 +115,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Quarkcoin address</source>
+        <source>Verify a message to ensure it was signed with a specified FairQuark address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -125,7 +130,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Quarkcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your FairQuark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -251,8 +256,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKCOINS&lt;/b&gt;!</source>
-        <translation>Atención: ¡Si codificas tu billetera y pierdes la contraseña perderás &lt;b&gt;TODOS TUS QUARKCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FairQuarkS&lt;/b&gt;!</source>
+        <translation>Atención: ¡Si codificas tu billetera y pierdes la contraseña perderás &lt;b&gt;TODOS TUS FairQuarkS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -278,8 +283,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="-56"/>
-        <source>Quarkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quarkcoin se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus quarkcoins de ser robados por malware que infecte su computador</translation>
+        <source>FairQuark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your FairQuarks from being stolen by malware infecting your computer.</source>
+        <translation>FairQuark se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus FairQuarks de ser robados por malware que infecte su computador</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +382,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Quarkcoin</source>
-        <translation>Muestra información acerca de Quarkcoin</translation>
+        <source>Show information about FairQuark</source>
+        <translation>Muestra información acerca de FairQuark</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +427,13 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Quarkcoin address</source>
-        <translation>Enviar monedas a una dirección quarkcoin</translation>
+        <source>Send coins to a FairQuark address</source>
+        <translation>Enviar monedas a una dirección FairQuark</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Quarkcoin</source>
-        <translation>Modifica las opciones de configuración de quarkcoin</translation>
+        <source>Modify configuration options for FairQuark</source>
+        <translation>Modifica las opciones de configuración de FairQuark</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -458,8 +463,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Quarkcoin</source>
-        <translation>Quarkcoin</translation>
+        <source>FairQuark</source>
+        <translation>FairQuark</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -483,8 +488,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Quarkcoin</source>
-        <translation>&amp;Sobre Quarkcoin</translation>
+        <source>&amp;About FairQuark</source>
+        <translation>&amp;Sobre FairQuark</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -503,12 +508,12 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Quarkcoin addresses to prove you own them</source>
+        <source>Sign messages with your FairQuark addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Quarkcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified FairQuark addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -539,13 +544,13 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+47"/>
-        <source>Quarkcoin client</source>
-        <translation>Cliente Quarkcoin</translation>
+        <source>FairQuark client</source>
+        <translation>Cliente FairQuark</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Quarkcoin network</source>
-        <translation><numerusform>%n conexión activa hacia la red Quarkcoin</numerusform><numerusform>%n conexiones activas hacia la red Quarkcoin</numerusform></translation>
+        <source>%n active connection(s) to FairQuark network</source>
+        <translation><numerusform>%n conexión activa hacia la red FairQuark</numerusform><numerusform>%n conexiones activas hacia la red FairQuark</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -658,7 +663,7 @@ Dirección: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Quarkcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid FairQuark address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -673,7 +678,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Quarkcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. FairQuark can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -739,8 +744,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Quarkcoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección Quarkcoin valida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid FairQuark address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección FairQuark valida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -758,7 +763,7 @@ Dirección: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Quarkcoin-Qt</source>
+        <source>FairQuark-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -822,13 +827,13 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Quarkcoin after logging in to the system.</source>
-        <translation>Inicia Quarkcoin automáticamente despues de encender el computador</translation>
+        <source>Automatically start FairQuark after logging in to the system.</source>
+        <translation>Inicia FairQuark automáticamente despues de encender el computador</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Quarkcoin on system login</source>
-        <translation>&amp;Inicia Quarkcoin al iniciar el sistema</translation>
+        <source>&amp;Start FairQuark on system login</source>
+        <translation>&amp;Inicia FairQuark al iniciar el sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -847,8 +852,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Quarkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abre automáticamente el puerto del cliente Quarkcoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the FairQuark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abre automáticamente el puerto del cliente FairQuark en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -857,8 +862,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Quarkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecta a la red Quarkcoin a través de un proxy SOCKS (ej. cuando te conectas por la red Tor)</translation>
+        <source>Connect to the FairQuark network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecta a la red FairQuark a través de un proxy SOCKS (ej. cuando te conectas por la red Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -932,7 +937,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quarkcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting FairQuark.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -947,7 +952,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Quarkcoin addresses in the transaction list or not.</source>
+        <source>Whether to show FairQuark addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -999,7 +1004,7 @@ Dirección: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Quarkcoin.</source>
+        <source>This setting will take effect after restarting FairQuark.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1018,7 +1023,7 @@ Dirección: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quarkcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FairQuark network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1072,7 +1077,7 @@ Dirección: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start quarkcoin: click-to-pay handler</source>
+        <source>Cannot start FairQuark: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1222,7 +1227,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Quarkcoin-Qt help message to get a list with possible Quarkcoin command-line options.</source>
+        <source>Show the FairQuark-Qt help message to get a list with possible FairQuark command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1242,12 +1247,12 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Quarkcoin - Debug window</source>
+        <source>FairQuark - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Quarkcoin Core</source>
+        <source>FairQuark Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1257,7 +1262,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Quarkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the FairQuark debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1267,7 +1272,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Quarkcoin RPC console.</source>
+        <source>Welcome to the FairQuark RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1410,7 +1415,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <source>The address to send the payment to (e.g. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1451,8 +1456,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Introduce una dirección Quarkcoin (ej. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a FairQuark address (e.g. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Introduce una dirección FairQuark (ej. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
 </context>
 <context>
@@ -1474,8 +1479,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Introduce una dirección Quarkcoin (ej. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>The address to sign the message with (e.g. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Introduce una dirección FairQuark (ej. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1516,7 +1521,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Quarkcoin address</source>
+        <source>Sign the message to prove you own this FairQuark address</source>
         <translation>Firmar un mensjage para probar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -1547,12 +1552,12 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Introduce una dirección Quarkcoin (ej. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>The address the message was signed with (e.g. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Introduce una dirección FairQuark (ej. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Quarkcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified FairQuark address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1568,8 +1573,8 @@ Dirección: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Introduce una dirección Quarkcoin (ej. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a FairQuark address (e.g. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Introduce una dirección FairQuark (ej. qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1578,7 +1583,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Quarkcoin signature</source>
+        <source>Enter FairQuark signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1653,6 +1658,11 @@ Dirección: %4</translation>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The Quarkcoin developers</source>
+        <translation type="unfinished"/>
+    </message>
+	<message>
+        <location line="+1"/>
+        <source>The FairQuark developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2187,11 +2197,11 @@ Dirección: %4</translation>
     </message>
 </context>
 <context>
-    <name>quarkcoin-core</name>
+    <name>FairQuark-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Quarkcoin version</source>
-        <translation>Versión Quarkcoin</translation>
+        <source>FairQuark version</source>
+        <translation>Versión FairQuark</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2200,8 +2210,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or quarkcoind</source>
-        <translation>Envia comando a quarkcoin lanzado con -server u quarkcoind
+        <source>Send command to -server or FairQuarkd</source>
+        <translation>Envia comando a FairQuark lanzado con -server u FairQuarkd
 </translation>
     </message>
     <message>
@@ -2224,14 +2234,14 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: quarkcoin.conf)</source>
-        <translation>Especifica archivo de configuración (predeterminado: quarkcoin.conf)
+        <source>Specify configuration file (default: FairQuark.conf)</source>
+        <translation>Especifica archivo de configuración (predeterminado: FairQuark.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: quarkcoind.pid)</source>
-        <translation>Especifica archivo pid (predeterminado: quarkcoin.pid)
+        <source>Specify pid file (default: FairQuarkd.pid)</source>
+        <translation>Especifica archivo pid (predeterminado: FairQuark.pid)
 </translation>
     </message>
     <message>
@@ -2313,13 +2323,13 @@ Dirección: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=quarkcoinrpc
+rpcuser=FairQuarkrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;FairQuark Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2335,7 +2345,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Quarkcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. FairQuark is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2380,8 +2390,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Quarkcoin will not work properly.</source>
-        <translation>Precaución: Por favor revise que la fecha y hora de tu ordenador son correctas. Si tu reloj está mal configurado Quarkcoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FairQuark will not work properly.</source>
+        <translation>Precaución: Por favor revise que la fecha y hora de tu ordenador son correctas. Si tu reloj está mal configurado FairQuark no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2631,8 +2641,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Quarkcoin Wiki for SSL setup instructions)</source>
-        <translation>Opciones SSL: (ver la Quarkcoin Wiki para instrucciones de configuración SSL)</translation>
+        <source>SSL options: (see the FairQuark Wiki for SSL setup instructions)</source>
+        <translation>Opciones SSL: (ver la FairQuark Wiki para instrucciones de configuración SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2833,13 +2843,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Quarkcoin</source>
-        <translation>Error cargando wallet.dat: Billetera necesita una vercion reciente de Quarkcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of FairQuark</source>
+        <translation>Error cargando wallet.dat: Billetera necesita una vercion reciente de FairQuark</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Quarkcoin to complete</source>
-        <translation>La billetera necesita ser reescrita: reinicie Quarkcoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart FairQuark to complete</source>
+        <translation>La billetera necesita ser reescrita: reinicie FairQuark para completar</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2898,8 +2908,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Quarkcoin is probably already running.</source>
-        <translation>No es posible escuchar en el %s en este ordenador. Probablemente Quarkcoin ya se está ejecutando.</translation>
+        <source>Unable to bind to %s on this computer. FairQuark is probably already running.</source>
+        <translation>No es posible escuchar en el %s en este ordenador. Probablemente FairQuark ya se está ejecutando.</translation>
     </message>
     <message>
         <location line="+64"/>

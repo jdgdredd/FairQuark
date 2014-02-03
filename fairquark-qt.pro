@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = quarkcoin-qt
-macx:TARGET = "Quarkcoin-Qt"
+TARGET = fairquark-qt
+macx:TARGET = "FairQuark-Qt"
 VERSION = 0.8.3
 INCLUDEPATH += src src/json src/qt
 QT += network
